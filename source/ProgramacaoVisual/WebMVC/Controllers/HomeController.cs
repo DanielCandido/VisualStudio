@@ -8,7 +8,7 @@ using WebMVC.Models;
 
 namespace WebMVC.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController
     {
         public IActionResult Index()
         {
